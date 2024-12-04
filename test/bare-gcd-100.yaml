@@ -1,0 +1,5 @@
+{
+  "name" : "bare-gcd-100",
+  "base" : "bare-base.json",
+  "bin" : "gcd-100-noref.riscv",
+}
