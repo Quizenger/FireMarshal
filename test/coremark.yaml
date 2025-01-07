@@ -1,0 +1,6 @@
+{
+  "name" : "coremark",
+  "base" : "br-base.json",
+  "overlay" : "coremark",
+  "command" : "/root/coremark.riscv",
+}
